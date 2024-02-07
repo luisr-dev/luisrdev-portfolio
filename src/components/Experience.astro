@@ -1,29 +1,43 @@
 ---
 import ExperienceItem from "./ExperienceItem.astro"
-const EXPERIENCIE = [
+const EXPERIENCES = [
   {
     date: "Actualmente...",
-    title: "Creador de Contenido",
-    company: "Twitch",
+    title: "Founder & CTO",
+    company: "Snaplite",
     description:
-      "Divulgo sobre programación y desarrollo web en diferentes plataformas. Galardonado como mejor creador de contenido de habla no-inglesa en 2022 y mejor comunidad en 2023 por GitHub.",
-    link: "https://twitch.tv/luisrdev",
+      "Creador de la aplicación Snaplite, una herramienta para la venta de productos de manera sencilla, rápida y eficaz. Desarrollo realizado con Next.js, TailwindCSS y Prisma. Actualmente en fase beta.",
+    link: "https://snaplite.app",
   },
   {
-    date: "Septiembre 2022",
-    title: "Principal Frontend Engineer",
-    company: "Adevinta Spain",
+    date: "Septiembre 2023 - Actualmente...",
+    title: "Senior Frontend Developer",
+    company: "Metlife / Provida (Imagemaker S.A.)",
     description:
-      "Responsable de la plataforma, componentes y utilidades para la creación y desarrollo de aplicaciones web. Mejora de un 30% en la entrega de software. Implantación de medidas de integración continua y despliegue con A/B testing en más de 15 equipos.",
+      "Encargado del desarrollo de una aplicación web en React para la gestión de clientes y venta de seguros. Destacados incluyen la promoción de herramientas para mejorar la comunicación y la implementación del pair coding para fomentar un ambiente colaborativo. Además, promoví los principios SOLID para asegurar la calidad del código y la mantenibilidad del producto final.",
+  },
+  {
+    date: "Septiembre 2022 - Junio 2023",
+    title: "Frontend Techlead",
+    company: "Preuniversitario Pedro de Valdivia (Imagemaker S.A.)",
+    description:
+      "Lideré el equipo de desarrollo frontend para proyectos educativos, implementando un sistema de diseño, componentes reutilizables y una plantilla estándar. Destacan logros como la creación de un Design System con Tailwind CSS y un Paquete de Componentes Personalizados con React y Vite. Además, entrené al equipo en los principios SOLID y promoví la eficiencia mediante el pair coding. Colaboré estrechamente con DevOps para mejorar las estrategias de branching en Git.",
+  },
+  {
+    date: "Enero 2021 - Septiembre 2022",
+    title: "Senior Frontend Developer",
+    company: "Preuniversitario Pedro de Valdivia (Imagemaker S.A.)",
+    description:
+      "Desarrollar aplicaciones web con React para la gestión escolar, construcción y aplicación de exámenes en línea para estudiantes.",
   },
 ]
 ---
 
 <ol class="relative mt-16">
   {
-    EXPERIENCIE.map((experiencie) => (
+    EXPERIENCES.map((experience) => (
       <li class="">
-        <ExperienceItem {...experiencie} />
+        <ExperienceItem {...experience} />
       </li>
     ))
   }
