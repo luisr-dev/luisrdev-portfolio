@@ -1,0 +1,177 @@
+{
+  "basics": {
+    "name": "Luis Enrique Ramos",
+    "label": "Senior Software Engineer con más de 7 años de experiencia",
+    "image": "/luisrdev.webp",
+    "email": "me@luisr.dev",
+    "phone": "",
+    "url": "https://luisr.dev",
+    "summary": "+7 años de experiencia como desarrollador web. Actualmente estoy desempeñando como Senior Front-end Engineer y liderando equipos. Algunos de mis logros incluyen la implementación exitosa de un Design System sobre Tailwind CSS, la creación de una libreria de componentes en React / Vite, y una plantilla base pre-configurado con Next.js, Tailwind, React Query y Next Auth. Como Tech Lead, disfruto contribuir a la arquitectura frontend, mejorando procesos y estándares para entregar software de manera rápida y eficiente, al mismo tiempo que impacto positivamente en la experiencia de desarrollo del equipo (DX).",
+    "location": {
+      "address": "",
+      "postalCode": "08820",
+      "city": "Santiago",
+      "countryCode": "ES",
+      "region": "Chile"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "luisrdev",
+        "url": "https://linkedin.com/in/luisrdev"
+      },
+      {
+        "network": "GitHub",
+        "username": "luisrdev",
+        "url": "https://github.com/luisrdev"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "MetLife (Imagemaker S.A.)",
+      "position": "Software Developer",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2023-08-17",
+      "endDate": null,
+      "summary": "Encargado del desarrollo de una aplicación web en React para la gestión de clientes y venta de seguros. Destacados incluyen la promoción de herramientas para mejorar la comunicación y la implementación del pair coding para fomentar un ambiente colaborativo. Además, promoví los principios SOLID para asegurar la calidad del código y la mantenibilidad del producto final."
+    },
+    {
+      "name": "Preuniversitario Pedro de Valdivia (Imagemaker S.A.)",
+      "position": "Frontend Tech Lead",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2022-08-01",
+      "endDate": "2023-06-01",
+      "summary": "Lideré el equipo de desarrollo frontend para proyectos educativos, implementando un sistema de diseño, componentes reutilizables y una plantilla estándar. Destacan logros como la creación de un Design System con Tailwind CSS y un Paquete de Componentes Personalizados con React y Vite. Además, entrené al equipo en los principios SOLID y promoví la eficiencia mediante el pair coding. Colaboré estrechamente con DevOps para mejorar las estrategias de branching en Git."
+    },
+    {
+      "name": "BIOHAZARD STUDIOS </>",
+      "position": "Fullstack Developer",
+      "startDate": "2018-01-01",
+      "endDate": "2021-01-15",
+      "summary": "Desarrollé aplicaciones web y móviles, promoví nuevas tecnologías y frameworks, implementé Git y la estrategia de branching Git Flow, y desarrollé paquetes con bibliotecas de terceros para proyectos full stack."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Universitario Tecnológico Rufino Blanco Fombona",
+      "url": "",
+      "area": "Técnico superior en Informática",
+      "startDate": "2015-01-01",
+      "endDate": "2017-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Snaplite",
+      "isActive": true,
+      "description": "Aplicación para la venta de productos en línea de manera rápida y sencilla.",
+      "highlights": ["Vende tus productos en segundos", "En desarrollo"],
+      "url": "https://snaplite.app"
+    }
+  ]
+}
