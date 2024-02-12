@@ -171,7 +171,8 @@
       "isActive": true,
       "description": "Aplicación para la venta de productos en línea de manera rápida y sencilla.",
       "highlights": ["Vende tus productos en segundos", "En desarrollo"],
-      "url": "https://snaplite.app"
+      "url": "https://snaplite.app",
+      "github": ""
     }
   ]
 }
