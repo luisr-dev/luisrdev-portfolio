@@ -31,7 +31,7 @@
     {
       "name": "MetLife (Imagemaker S.A.)",
       "position": "Software Developer",
-      "url": "https://twitch.tv/midudev",
+      "url": "",
       "startDate": "2023-08-17",
       "endDate": null,
       "summary": "Encargado del desarrollo de una aplicación web en React para la gestión de clientes y venta de seguros. Destacados incluyen la promoción de herramientas para mejorar la comunicación y la implementación del pair coding para fomentar un ambiente colaborativo. Además, promoví los principios SOLID para asegurar la calidad del código y la mantenibilidad del producto final."
@@ -39,7 +39,7 @@
     {
       "name": "Preuniversitario Pedro de Valdivia (Imagemaker S.A.)",
       "position": "Frontend Tech Lead",
-      "url": "https://twitch.tv/midudev",
+      "url": "",
       "startDate": "2022-08-01",
       "endDate": "2023-06-01",
       "summary": "Lideré el equipo de desarrollo frontend para proyectos educativos, implementando un sistema de diseño, componentes reutilizables y una plantilla estándar. Destacan logros como la creación de un Design System con Tailwind CSS y un Paquete de Componentes Personalizados con React y Vite. Además, entrené al equipo en los principios SOLID y promoví la eficiencia mediante el pair coding. Colaboré estrechamente con DevOps para mejorar las estrategias de branching en Git."
