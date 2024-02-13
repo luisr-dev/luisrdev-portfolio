@@ -14,7 +14,7 @@ const { name, label } = basics;
 ---
 
 <CvLayout title={`Portafolio de ${name} - ${label}`}>
-  <main>
+  <main class="lg:p-16 m-auto w-full p-8">
     <Hero />
     <About />
     <Experience />
@@ -25,17 +25,3 @@ const { name, label } = basics;
 
   <KeyboardManager />
 </CvLayout>
-
-<style>
-  main {
-    padding: 4rem;
-    margin: auto;
-    width: 100%;
-  }
-
-  @media (width <= 700px) {
-    main {
-      padding: 2rem;
-    }
-  }
-</style>
