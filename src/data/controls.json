@@ -5,7 +5,8 @@
     "visit": "Visita",
     "commands": "Buscar comando",
     "actions": "Acciones",
-    "print": "Imprimir"
+    "print": "Imprimir",
+    "translate": "Ver en inglés"
   },
   "en": {
     "press": "Press",
@@ -13,6 +14,7 @@
     "visit": "Visit",
     "commands": "Search command",
     "actions": "Actions",
-    "print": "Print"
+    "print": "Print",
+    "translate": "View in Spanish"
   }
 }
