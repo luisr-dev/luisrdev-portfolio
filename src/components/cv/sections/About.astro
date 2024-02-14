@@ -1,8 +1,11 @@
 ---
-import Section from "../Section.astro"
+import Section from "../Section.astro";
 
-import { basics } from "@cv"
-const { summary } = basics
+import data from "@cv";
+
+const { locale = "es" } = Astro.params;
+
+const { summary } = data[locale as keyof typeof data].basics;
 ---
 
 <Section title="Sobre mí">

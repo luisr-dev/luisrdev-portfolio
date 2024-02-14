@@ -1,7 +1,11 @@
 ---
 import Section from "../Section.astro";
 
-import { education } from "@cv";
+import data from "@cv";
+
+const { locale = "es" } = Astro.params;
+
+const { education } = data[locale as keyof typeof data];
 ---
 
 <Section title="Educación">

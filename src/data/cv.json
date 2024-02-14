@@ -1,178 +1,348 @@
 {
-  "basics": {
-    "name": "Luis Enrique Ramos",
-    "label": "Senior Software Engineer con más de 7 años de experiencia",
-    "image": "/luisrdev.webp",
-    "email": "me@luisr.dev",
-    "phone": "",
-    "url": "https://luisr.dev",
-    "summary": "+7 años de experiencia como desarrollador web. Actualmente estoy desempeñando como Senior Front-end Engineer y liderando equipos. Algunos de mis logros incluyen la implementación exitosa de un Design System sobre Tailwind CSS, la creación de una libreria de componentes en React / Vite, y una plantilla base pre-configurado con Next.js, Tailwind, React Query y Next Auth. Como Tech Lead, disfruto contribuir a la arquitectura frontend, mejorando procesos y estándares para entregar software de manera rápida y eficiente, al mismo tiempo que impacto positivamente en la experiencia de desarrollo del equipo (DX).",
-    "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "Santiago",
-      "countryCode": "ES",
-      "region": "Chile"
+  "es": {
+    "basics": {
+      "name": "Luis Enrique Ramos",
+      "label": "Senior Software Engineer con más de 7 años de experiencia",
+      "image": "/luisrdev.webp",
+      "email": "me@luisr.dev",
+      "phone": "",
+      "url": "https://luisr.dev",
+      "summary": "+7 años de experiencia como desarrollador web. Actualmente estoy desempeñando como Senior Front-end Engineer y liderando equipos. Algunos de mis logros incluyen la implementación exitosa de un Design System sobre Tailwind CSS, la creación de una libreria de componentes en React / Vite, y una plantilla base pre-configurado con Next.js, Tailwind, React Query y Next Auth. Como Tech Lead, disfruto contribuir a la arquitectura frontend, mejorando procesos y estándares para entregar software de manera rápida y eficiente, al mismo tiempo que impacto positivamente en la experiencia de desarrollo del equipo (DX).",
+      "location": {
+        "address": "",
+        "postalCode": "08820",
+        "city": "Santiago",
+        "countryCode": "ES",
+        "region": "Chile"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "luisrdev",
+          "url": "https://linkedin.com/in/luisrdev"
+        },
+        {
+          "network": "GitHub",
+          "username": "luisrdev",
+          "url": "https://github.com/luisrdev"
+        }
+      ]
     },
-    "profiles": [
+    "work": [
       {
-        "network": "LinkedIn",
-        "username": "luisrdev",
-        "url": "https://linkedin.com/in/luisrdev"
+        "name": "MetLife (Imagemaker S.A.)",
+        "position": "Software Developer",
+        "url": "",
+        "startDate": "2023-08-17",
+        "endDate": null,
+        "summary": "Encargado del desarrollo de una aplicación web en React para la gestión de clientes y venta de seguros. Destacados incluyen la promoción de herramientas para mejorar la comunicación y la implementación del pair coding para fomentar un ambiente colaborativo. Además, promoví los principios SOLID para asegurar la calidad del código y la mantenibilidad del producto final."
       },
       {
-        "network": "GitHub",
-        "username": "luisrdev",
-        "url": "https://github.com/luisrdev"
+        "name": "Preuniversitario Pedro de Valdivia (Imagemaker S.A.)",
+        "position": "Frontend Tech Lead",
+        "url": "",
+        "startDate": "2022-08-01",
+        "endDate": "2023-06-01",
+        "summary": "Lideré el equipo de desarrollo frontend para proyectos educativos, implementando un sistema de diseño, componentes reutilizables y una plantilla estándar. Destacan logros como la creación de un Design System con Tailwind CSS y un Paquete de Componentes Personalizados con React y Vite. Además, entrené al equipo en los principios SOLID y promoví la eficiencia mediante el pair coding. Colaboré estrechamente con DevOps para mejorar las estrategias de branching en Git."
+      },
+      {
+        "name": "BIOHAZARD STUDIOS </>",
+        "position": "Fullstack Developer",
+        "startDate": "2018-01-01",
+        "endDate": "2021-01-15",
+        "summary": "Desarrollé aplicaciones web y móviles, promoví nuevas tecnologías y frameworks, implementé Git y la estrategia de branching Git Flow, y desarrollé paquetes con bibliotecas de terceros para proyectos full stack."
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "Organization",
+        "position": "Volunteer",
+        "url": "https://organization.com/",
+        "startDate": "2012-01-01",
+        "endDate": "2013-01-01",
+        "summary": "Description…",
+        "highlights": ["Awarded 'Volunteer of the Month'"]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Instituto Universitario Tecnológico Rufino Blanco Fombona",
+        "url": "",
+        "area": "Técnico superior en Informática",
+        "startDate": "2015-01-01",
+        "endDate": "2017-01-01"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Master",
+        "keywords": ["Desarrollo Web", "Frontend"]
+      },
+      {
+        "name": "CSS",
+        "level": "Master",
+        "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Master",
+        "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+      },
+      {
+        "name": "Tailwind",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web",
+          "Frontend",
+          "CSS Framework",
+          "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web",
+          "Frontend",
+          "Backend",
+          "JavaScript Superset"
+        ]
+      },
+      {
+        "name": "Node",
+        "level": "Avanzado",
+        "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+      },
+      {
+        "name": "MySQL",
+        "level": "Avanzado",
+        "keywords": [
+          "Bases de Datos",
+          "SQL",
+          "Almacenamiento de Datos",
+          "Backend"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Avanzado",
+        "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+      },
+      {
+        "name": "GitHub",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones",
+          "Colaboración",
+          "Código Fuente",
+          "Git"
+        ]
+      },
+      {
+        "name": "Next.js",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web",
+          "Frontend",
+          "React Framework",
+          "SSR",
+          "Static Generation"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Avanzado",
+        "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Advanced"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Snaplite",
+        "isActive": true,
+        "description": "Aplicación para la venta de productos en línea de manera rápida y sencilla.",
+        "highlights": ["Vende tus productos en segundos", "En desarrollo"],
+        "url": "https://snaplite.app",
+        "github": ""
       }
     ]
   },
-  "work": [
-    {
-      "name": "MetLife (Imagemaker S.A.)",
-      "position": "Software Developer",
-      "url": "",
-      "startDate": "2023-08-17",
-      "endDate": null,
-      "summary": "Encargado del desarrollo de una aplicación web en React para la gestión de clientes y venta de seguros. Destacados incluyen la promoción de herramientas para mejorar la comunicación y la implementación del pair coding para fomentar un ambiente colaborativo. Además, promoví los principios SOLID para asegurar la calidad del código y la mantenibilidad del producto final."
-    },
-    {
-      "name": "Preuniversitario Pedro de Valdivia (Imagemaker S.A.)",
-      "position": "Frontend Tech Lead",
-      "url": "",
-      "startDate": "2022-08-01",
-      "endDate": "2023-06-01",
-      "summary": "Lideré el equipo de desarrollo frontend para proyectos educativos, implementando un sistema de diseño, componentes reutilizables y una plantilla estándar. Destacan logros como la creación de un Design System con Tailwind CSS y un Paquete de Componentes Personalizados con React y Vite. Además, entrené al equipo en los principios SOLID y promoví la eficiencia mediante el pair coding. Colaboré estrechamente con DevOps para mejorar las estrategias de branching en Git."
-    },
-    {
-      "name": "BIOHAZARD STUDIOS </>",
-      "position": "Fullstack Developer",
-      "startDate": "2018-01-01",
-      "endDate": "2021-01-15",
-      "summary": "Desarrollé aplicaciones web y móviles, promoví nuevas tecnologías y frameworks, implementé Git y la estrategia de branching Git Flow, y desarrollé paquetes con bibliotecas de terceros para proyectos full stack."
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Instituto Universitario Tecnológico Rufino Blanco Fombona",
-      "url": "",
-      "area": "Técnico superior en Informática",
-      "startDate": "2015-01-01",
-      "endDate": "2017-01-01"
-    }
-  ],
-  "skills": [
-    {
-      "name": "HTML",
-      "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend"]
-    },
-    {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
+  "en": {
+    "basics": {
+      "name": "Luis Enrique Ramos",
+      "label": "Senior Software Engineer with over 7 years of experience",
+      "image": "/luisrdev.webp",
+      "email": "me@luisr.dev",
+      "phone": "",
+      "url": "https://luisr.dev",
+      "summary": "+7 years of experience as a web developer. Currently working as a Senior Front-end Engineer and leading teams. Some of my achievements include the successful implementation of a Design System using Tailwind CSS, the creation of a component library in React / Vite, and a pre-configured base template with Next.js, Tailwind, React Query, and Next Auth. As a Tech Lead, I enjoy contributing to frontend architecture, improving processes and standards to deliver software quickly and efficiently, while positively impacting the team's development experience (DX).",
+      "location": {
+        "address": "",
+        "postalCode": "08820",
+        "city": "Santiago",
+        "countryCode": "ES",
+        "region": "Chile"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "luisrdev",
+          "url": "https://linkedin.com/in/luisrdev"
+        },
+        {
+          "network": "GitHub",
+          "username": "luisrdev",
+          "url": "https://github.com/luisrdev"
+        }
       ]
     },
-    {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
-    },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Avanzado",
-      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
-    },
-    {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente",
-        "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Spanish",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Advanced"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Snaplite",
-      "isActive": true,
-      "description": "Aplicación para la venta de productos en línea de manera rápida y sencilla.",
-      "highlights": ["Vende tus productos en segundos", "En desarrollo"],
-      "url": "https://snaplite.app",
-      "github": ""
-    }
-  ]
+    "work": [
+      {
+        "name": "MetLife (Imagemaker S.A.)",
+        "position": "Software Developer",
+        "url": "",
+        "startDate": "2023-08-17",
+        "endDate": null,
+        "summary": "Responsible for the development of a React web application for client management and insurance sales. Highlights include promoting tools to improve communication and implementing pair coding to foster a collaborative environment. Additionally, I promoted SOLID principles to ensure code quality and product maintainability."
+      },
+      {
+        "name": "Preuniversitario Pedro de Valdivia (Imagemaker S.A.)",
+        "position": "Frontend Tech Lead",
+        "url": "",
+        "startDate": "2022-08-01",
+        "endDate": "2023-06-01",
+        "summary": "Led the frontend development team for educational projects, implementing a design system, reusable components, and a standard template. Achievements include creating a Design System with Tailwind CSS and a Custom Components Package with React and Vite. Additionally, I trained the team on SOLID principles and promoted efficiency through pair coding. I collaborated closely with DevOps to improve branching strategies in Git."
+      },
+      {
+        "name": "BIOHAZARD STUDIOS </>",
+        "position": "Fullstack Developer",
+        "startDate": "2018-01-01",
+        "endDate": "2021-01-15",
+        "summary": "Developed web and mobile applications, promoted new technologies and frameworks, implemented Git and the Git Flow branching strategy, and developed packages with third-party libraries for full stack projects."
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "Organization",
+        "position": "Volunteer",
+        "url": "https://organization.com/",
+        "startDate": "2012-01-01",
+        "endDate": "2013-01-01",
+        "summary": "Description…",
+        "highlights": ["Awarded 'Volunteer of the Month'"]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Rufino Blanco Fombona Technological University Institute",
+        "url": "",
+        "area": "Higher Technician in Computer Science",
+        "startDate": "2015-01-01",
+        "endDate": "2017-01-01"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Master",
+        "keywords": ["Web Development", "Frontend"]
+      },
+      {
+        "name": "CSS",
+        "level": "Master",
+        "keywords": ["Web Development", "Frontend", "Responsive Design"]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Master",
+        "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+      },
+      {
+        "name": "Tailwind",
+        "level": "Advanced",
+        "keywords": [
+          "Web Development",
+          "Frontend",
+          "CSS Framework",
+          "Responsive Design"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Advanced",
+        "keywords": [
+          "Web Development",
+          "Frontend",
+          "Backend",
+          "JavaScript Superset"
+        ]
+      },
+      {
+        "name": "Node",
+        "level": "Advanced",
+        "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+      },
+      {
+        "name": "MySQL",
+        "level": "Advanced",
+        "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
+      },
+      {
+        "name": "Git",
+        "level": "Advanced",
+        "keywords": ["Version Control", "Collaboration", "Source Code"]
+      },
+      {
+        "name": "GitHub",
+        "level": "Advanced",
+        "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+      },
+      {
+        "name": "Next.js",
+        "level": "Advanced",
+        "keywords": [
+          "Web Development",
+          "Frontend",
+          "React Framework",
+          "SSR",
+          "Static Generation"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Advanced",
+        "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Advanced"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Snaplite",
+        "isActive": true,
+        "description": "Application for selling products online quickly and easily.",
+        "highlights": ["Sell your products in seconds", "In development"],
+        "url": "https://snaplite.app",
+        "github": ""
+      }
+    ]
+  }
 }

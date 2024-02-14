@@ -1,5 +1,5 @@
 ---
-import { basics } from "@cv";
+import data from "@cv";
 import Section from "@/components/cv/Section.astro";
 import Mail from "@/components/icons/cv/Mail.astro";
 import Phone from "@/components/icons/cv/Phone.astro";
@@ -10,7 +10,10 @@ import WorldMap from "@/components/icons/cv/WorldMap.astro";
 import Pin from "@/components/icons/cv/Pin.astro";
 import type { SocialIcon } from "@/types";
 
-const { name, label, image, location, profiles, phone, email, url } = basics;
+const { locale = "es" } = Astro.params;
+
+const { name, label, image, location, profiles, phone, email, url } =
+  data[locale as keyof typeof data].basics;
 const { city, region } = location;
 
 const SOCIAL_ICONS: SocialIcon = {

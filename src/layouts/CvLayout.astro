@@ -1,6 +1,9 @@
 ---
-import { basics } from "@cv";
+import data from "@cv";
 
+const { locale = "es" } = Astro.params;
+
+const { basics } = data[locale as keyof typeof data];
 interface Props {
   title: string;
 }

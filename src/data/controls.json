@@ -1,0 +1,18 @@
+{
+  "es": {
+    "press": "Pulsa",
+    "action": "para abrir la paleta de comandos",
+    "visit": "Visita",
+    "commands": "Buscar comando",
+    "actions": "Acciones",
+    "print": "Imprimir"
+  },
+  "en": {
+    "press": "Press",
+    "action": "to open the command palette",
+    "visit": "Visit",
+    "commands": "Search command",
+    "actions": "Actions",
+    "print": "Print"
+  }
+}

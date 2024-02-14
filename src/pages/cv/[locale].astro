@@ -9,8 +9,18 @@ import Projects from "@/components/cv/sections/Projects.astro";
 import Skills from "@/components/cv/sections/Skills.astro";
 import KeyboardManager from "@/components/cv/KeyboardManager.astro";
 
-import { basics } from "@cv";
-const { name, label } = basics;
+import data from "@cv";
+
+export function getStaticPaths() {
+  return [
+    { params: { locale: "en" as keyof typeof data } },
+    { params: { locale: "es" as keyof typeof data } },
+  ];
+}
+
+const { locale = "es" } = Astro.params;
+
+const { name, label } = data[locale as keyof typeof data].basics;
 ---
 
 <CvLayout title={`Portafolio de ${name} - ${label}`}>
