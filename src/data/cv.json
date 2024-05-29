@@ -46,11 +46,26 @@
         "summary": "Lideré el equipo de desarrollo frontend para proyectos educativos, implementando un sistema de diseño, componentes reutilizables y una plantilla estándar. Destacan logros como la creación de un Design System con Tailwind CSS y un Paquete de Componentes Personalizados con React y Vite. Además, entrené al equipo en los principios SOLID y promoví la eficiencia mediante el pair coding. Colaboré estrechamente con DevOps para mejorar las estrategias de branching en Git."
       },
       {
+        "name": "Preuniversitario Pedro de Valdivia (Imagemaker S.A.)",
+        "position": "Senior Frontend Developer",
+        "url": "",
+        "startDate": "2021-01-16",
+        "endDate": "2022-07-31",
+        "summary": "Desarrolle aplicaciones web para la administración de colegios en Next.js."
+      },
+      {
         "name": "BIOHAZARD STUDIOS </>",
         "position": "Fullstack Developer",
         "startDate": "2018-01-01",
         "endDate": "2021-01-15",
         "summary": "Desarrollé aplicaciones web y móviles, promoví nuevas tecnologías y frameworks, implementé Git y la estrategia de branching Git Flow, y desarrollé paquetes con bibliotecas de terceros para proyectos full stack."
+      },
+      {
+        "name": "Meditron C.A.",
+        "position": "Junior Web Developer",
+        "startDate": "2016-07-06",
+        "endDate": "2017-11-01",
+        "summary": "Mantenimiento de sistema de inventario web en PHP, Javascript, Html y CSS. Desarrollé nuevo sistema de inventario en Laravel y jQuery, implementé Git de manera local haciendo uso de la Intranet de la empresa."
       }
     ],
     "volunteer": [
@@ -229,6 +244,13 @@
         "startDate": "2018-01-01",
         "endDate": "2021-01-15",
         "summary": "Developed web and mobile applications, promoted new technologies and frameworks, implemented Git and the Git Flow branching strategy, and developed packages with third-party libraries for full stack projects."
+      },
+      {
+        "name": "Meditron C.A.",
+        "position": "Junior Web Developer",
+        "startDate": "2016-07-06",
+        "endDate": "2017-11-01",
+        "summary": "Maintenance of web inventory system in PHP, Javascript, HTML, and CSS. Developed a new inventory system in Laravel and jQuery, implemented Git locally using the company's Intranet."
       }
     ],
     "volunteer": [
