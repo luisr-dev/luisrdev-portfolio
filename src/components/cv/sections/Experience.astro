@@ -41,7 +41,7 @@ const { work } = data[locale as keyof typeof data];
               </header>
 
               <footer>
-                <p>{summary}</p>
+                <div set:html={summary} />
               </footer>
             </article>
           </li>

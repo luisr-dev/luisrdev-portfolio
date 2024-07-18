@@ -35,7 +35,7 @@
         "url": "",
         "startDate": "2023-08-17",
         "endDate": null,
-        "summary": "Encargado del desarrollo de una aplicación web en React para la gestión de clientes y venta de seguros. Destacados incluyen la promoción de herramientas para mejorar la comunicación y la implementación del pair coding para fomentar un ambiente colaborativo. Además, promoví los principios SOLID para asegurar la calidad del código y la mantenibilidad del producto final."
+        "summary": "<h3 class=\"text-sm font-normal mb-2 text-gray-600 leading-6 mb-0 break-words\">Responsabilidades</h3>\n<ul class=\"mb-6\">\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Desarrollar una aplicación web en React para la gestión de clientes y ventas de seguros.</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Promover herramientas para mejorar la comunicación.</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Implementar programación en pareja para fomentar un entorno colaborativo.</li>\n</ul>\n<h3 class=\"text-sm font-normal mb-2 text-gray-600 leading-6 mb-0 break-words\">Logros</h3>\n<ul>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Promoví los principios SOLID para garantizar la calidad del código y la mantenibilidad del producto final.</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Mejoré la comunicación del equipo mediante la introducción y promoción de herramientas específicas.</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Fomenté un entorno colaborativo mediante la implementación de prácticas de programación en pareja.</li>\n</ul>"
       },
       {
         "name": "Preuniversitario Pedro de Valdivia (Imagemaker S.A.)",
@@ -43,7 +43,7 @@
         "url": "",
         "startDate": "2022-08-01",
         "endDate": "2023-06-01",
-        "summary": "Lideré el equipo de desarrollo frontend para proyectos educativos, implementando un sistema de diseño, componentes reutilizables y una plantilla estándar. Destacan logros como la creación de un Design System con Tailwind CSS y un Paquete de Componentes Personalizados con React y Vite. Además, entrené al equipo en los principios SOLID y promoví la eficiencia mediante el pair coding. Colaboré estrechamente con DevOps para mejorar las estrategias de branching en Git."
+        "summary": "<h3 class=\"text-sm font-normal mb-2 text-gray-600 leading-6 mb-0 break-words\">Responsabilidades</h3>\n<ul class=\"mb-6\">\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Desarrollar aplicaciones web en React para la gestión escolar, creación y aplicación de exámenes en línea para estudiantes</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Mentorizar y guiar al equipo frontend en mejores prácticas y principios de software</li>\n</ul>\n<h3 class=\"text-sm font-normal mb-2 text-gray-600 leading-6 mb-0 break-words\">Logros</h3>\n<ul>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Desarrollé un sistema de diseño sobre Tailwind CSS para la organización como estándar para cada proyecto en colaboración con el equipo de UI/UX</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Desarrollé un Paquete de Componentes Personalizados con React y Vite para compartir en todos los proyectos alojados en el Registro de Paquetes NPM de GitLab, aumentando la mantenibilidad y acelerando los tiempos de desarrollo</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Creé una plantilla personalizada con Next.js, TailwindCSS, Next Auth, React Query, Eslint, Prettier para asegurar un estándar de código en cada proyecto con todas las tecnologías y reglas aplicadas y listas para trabajar</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Coacheé y mentoré al equipo frontend para seguir los principios SOLID y asegurar la calidad del código de producción y su mantenibilidad</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Mejoré la eficiencia de mi equipo promoviendo la programación en pareja y grupal, diferentes principios y una mentalidad de experimentación</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Mejoré y estandaricé las estrategias de ramificación de Git trabajando estrechamente con el equipo de DevOps</li>\n</ul>"
       },
       {
         "name": "Preuniversitario Pedro de Valdivia (Imagemaker S.A.)",
@@ -51,21 +51,21 @@
         "url": "",
         "startDate": "2021-01-16",
         "endDate": "2022-07-31",
-        "summary": "Desarrolle aplicaciones web para la administración de colegios en Next.js."
+        "summary": "<p>Desarrolle aplicaciones web para la administración de colegios en Next.js.</p>"
       },
       {
         "name": "BIOHAZARD STUDIOS </>",
         "position": "Fullstack Developer",
         "startDate": "2018-01-01",
         "endDate": "2021-01-15",
-        "summary": "Desarrollé aplicaciones web y móviles, promoví nuevas tecnologías y frameworks, implementé Git y la estrategia de branching Git Flow, y desarrollé paquetes con bibliotecas de terceros para proyectos full stack."
+        "summary": "<h3 class=\"text-sm font-normal mb-2 text-gray-600 leading-6 mb-0 break-words\">Responsabilidades</h3>\n<ul class=\"mb-6\">\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Desarrollo de sitios web estáticos y dinámicos con HTML/CSS/SASS/Bootstrap y Javascript/jQuery.</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Desarrollo de Aplicaciones SPA con ReactJS</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- API REST con PHP y Laravel</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Aplicaciones híbridas con Cordova y React</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Manejo de bases de datos relacionales con MySQL</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Desarrollo de bibliotecas e integraciones externas como servicios para proyectos.</li>\n</ul>"
       },
       {
         "name": "Meditron C.A.",
         "position": "Junior Web Developer",
         "startDate": "2016-07-06",
         "endDate": "2017-11-01",
-        "summary": "Mantenimiento de sistema de inventario web en PHP, Javascript, Html y CSS. Desarrollé nuevo sistema de inventario en Laravel y jQuery, implementé Git de manera local haciendo uso de la Intranet de la empresa."
+        "summary": "<p>Mantenimiento de sistema de inventario web en PHP, Javascript, Html y CSS. Desarrollé nuevo sistema de inventario en Laravel y jQuery, implementé Git de manera local haciendo uso de la Intranet de la empresa.</p>"
       }
     ],
     "volunteer": [
@@ -75,7 +75,7 @@
         "url": "https://organization.com/",
         "startDate": "2012-01-01",
         "endDate": "2013-01-01",
-        "summary": "Description…",
+        "summary": "<p>Description…</p>",
         "highlights": ["Awarded 'Volunteer of the Month'"]
       }
     ],
@@ -228,7 +228,7 @@
         "url": "",
         "startDate": "2023-08-17",
         "endDate": null,
-        "summary": "Responsible for the development of a React web application for client management and insurance sales. Highlights include promoting tools to improve communication and implementing pair coding to foster a collaborative environment. Additionally, I promoted SOLID principles to ensure code quality and product maintainability."
+        "summary": "<h3 class=\"text-sm font-normal mb-2 text-gray-600 leading-6 mb-0 break-words\">Responsibilities</h3>\n<ul class=\"mb-6\">\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Develop a web application in React for client management and insurance sales.</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Promote tools to improve communication.</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Implement pair programming to foster a collaborative environment.</li>\n</ul>\n<h3 class=\"text-sm font-normal mb-2 text-gray-600 leading-6 mb-0 break-words\">Key Accomplishments</h3>\n<ul>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Promoted SOLID principles to ensure code quality and maintainability of the final product.</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Enhanced team communication through the introduction and promotion of specific tools.</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Fostered a collaborative environment by implementing pair programming practices.</li>\n</ul>"
       },
       {
         "name": "Preuniversitario Pedro de Valdivia (Imagemaker S.A.)",
@@ -236,21 +236,29 @@
         "url": "",
         "startDate": "2022-08-01",
         "endDate": "2023-06-01",
-        "summary": "Led the frontend development team for educational projects, implementing a design system, reusable components, and a standard template. Achievements include creating a Design System with Tailwind CSS and a Custom Components Package with React and Vite. Additionally, I trained the team on SOLID principles and promoted efficiency through pair coding. I collaborated closely with DevOps to improve branching strategies in Git."
+        "summary": "<h3 class=\"text-sm font-normal mb-2 text-gray-600 leading-6 mb-0 break-words\">Responsibilities</h3>\n<ul class=\"mb-6\">\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Develop React web applications for schools management, building and applying online exams for students</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Mentor and guide the frontend team for best practices and software principles</li>\n</ul>\n<h3 class=\"text-sm font-normal mb-2 text-gray-600 leading-6 mb-0 break-words\">Key Accomplishments</h3>\n<ul>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Developed a design system on top of Tailwind CSS for the organization as standards for every project with the UI/UX team</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Developed a Custom Components Package with React and Vite to share across every project hosted on GitLab NPM Package Registry to increase maintainability and faster develop times</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Developed a custom template with Next.js, TailwindCSS, Next Auth, React Query, Eslint, Prettier in order to ensure a standard of the code on every single project with all the technologies and rules applied and ready to work</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Coach and mentoring the frontend team to follow SOLID principle in order to ensure quality of production code and maintainability</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Improved my team’s efficiency by promoting the pair and group programming, differents principles and experimentation mindset</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Improved and standardized git branch strategies working closely with the DevOps team</li>\n</ul>"
+      },
+      {
+        "name": "Preuniversitario Pedro de Valdivia (Imagemaker S.A.)",
+        "position": "Senior Frontend Developer",
+        "url": "",
+        "startDate": "2021-01-16",
+        "endDate": "2022-07-31",
+        "summary": "<p>Desarrolle aplicaciones web para la administración de colegios en Next.js.</p>"
       },
       {
         "name": "BIOHAZARD STUDIOS </>",
         "position": "Fullstack Developer",
         "startDate": "2018-01-01",
         "endDate": "2021-01-15",
-        "summary": "Developed web and mobile applications, promoted new technologies and frameworks, implemented Git and the Git Flow branching strategy, and developed packages with third-party libraries for full stack projects."
+        "summary": "<h3 class=\"text-sm font-normal mb-2 text-gray-600 leading-6 mb-0 break-words\">Responsibilities</h3>\n<ul class=\"mb-6\">\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Development of static and dynamic websites with HTML/CSS/SASS/Bootstrap and Javascript/jQuery.</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Development of SPA Applications with ReactJS</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- REST API with PHP and Laravel</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Hybrid applications with Cordova and React</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Handling of relational databases with MySQL</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Development of libraries and external integrations such as services for projects.</li>\n</ul>"
       },
       {
         "name": "Meditron C.A.",
         "position": "Junior Web Developer",
         "startDate": "2016-07-06",
         "endDate": "2017-11-01",
-        "summary": "Maintenance of web inventory system in PHP, Javascript, HTML, and CSS. Developed a new inventory system in Laravel and jQuery, implemented Git locally using the company's Intranet."
+        "summary": "<p>Maintenance of web inventory system in PHP, Javascript, HTML, and CSS. Developed a new inventory system in Laravel and jQuery, implemented Git locally using the company's Intranet.</p>"
       }
     ],
     "volunteer": [
@@ -260,7 +268,7 @@
         "url": "https://organization.com/",
         "startDate": "2012-01-01",
         "endDate": "2013-01-01",
-        "summary": "Description…",
+        "summary": "<p>Description…</p>",
         "highlights": ["Awarded 'Volunteer of the Month'"]
       }
     ],
