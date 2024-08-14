@@ -12,6 +12,12 @@ import GitHub from "@/components/icons/GitHub.astro";
 import Tailwind from "@/components/icons/cv/tailwind.astro";
 import Next from "@/components/icons/cv/next.astro";
 import Nest from "@/components/icons/cv/nest.astro";
+import Azure from "@/components/icons/cv/azure.astro";
+import SQLServer from "@/components/icons/cv/sqlserver.astro";
+import AtomicDesign from "@/components/icons/cv/atomicDesign.astro";
+import Azdo from "@/components/icons/cv/azdo.astro";
+import Communication from "@/components/icons/cv/communication.astro";
+import Leadership from "@/components/icons/cv/leadership.astro";
 import data from "@cv";
 
 const { locale = "es" } = Astro.params;
@@ -31,15 +37,20 @@ const SKILLS_ICONS: Record<string, any> = {
   Next,
   Tailwind,
   Nest,
+  Azure,
+  SQLServer,
+  AtomicDesign,
+  Azdo,
+  Communication,
+  Leadership,
 };
 ---
 
 <Section title="Habilidades">
   <ul class="inline-flex gap-2 flex-wrap">
     {
-      skills.map(({ name }) => {
-        const iconName = name === "Next.js" ? "Next" : name;
-        const Icon = SKILLS_ICONS[iconName];
+      skills.map(({ name, key }) => {
+        const Icon = SKILLS_ICONS[key];
 
         return (
           <li class="flex items-center bg-[#eee] rounded-md text-black text-xs font-medium gap-1 py-1 px-2">

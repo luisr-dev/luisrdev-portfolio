@@ -7,7 +7,7 @@
       "email": "me@luisr.dev",
       "phone": "",
       "url": "https://luisr.dev",
-      "summary": "+7 años de experiencia como desarrollador web. Actualmente estoy desempeñando como Senior Front-end Engineer y liderando equipos. Algunos de mis logros incluyen la implementación exitosa de un Design System sobre Tailwind CSS, la creación de una libreria de componentes en React / Vite, y una plantilla base pre-configurado con Next.js, Tailwind, React Query y Next Auth. Como Tech Lead, disfruto contribuir a la arquitectura frontend, mejorando procesos y estándares para entregar software de manera rápida y eficiente, al mismo tiempo que impacto positivamente en la experiencia de desarrollo del equipo (DX).",
+      "summary": "+7 años de experiencia como desarrollador web. Actualmente estoy desempeñando como Tech Lead y liderando equipos. Algunos de mis logros incluyen la implementación exitosa de un Design System sobre Tailwind CSS, la creación de una libreria de componentes en React / Vite, y una plantilla base pre-configurado con Next.js, Tailwind, React Query y Next Auth. Como Tech Lead, disfruto contribuir a la arquitectura frontend, mejorando procesos y estándares para entregar software de manera rápida y eficiente, al mismo tiempo que impacto positivamente en la experiencia de desarrollo del equipo (DX).",
       "location": {
         "address": "",
         "postalCode": "08820",
@@ -43,7 +43,7 @@
         "url": "",
         "startDate": "2023-08-17",
         "endDate": "2024-08-16",
-        "summary": "<h3 class=\"text-sm font-normal mb-2 text-gray-600 leading-6 mb-0 break-words\">Responsabilidades</h3>\n<ul class=\"mb-6\">\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Desarrollar una aplicación web en React para la gestión de clientes y ventas de seguros.</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Promover herramientas para mejorar la comunicación.</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Implementar programación en pareja para fomentar un entorno colaborativo.</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Desarrollar servicios en NestJS para una aplicación con más de 2000 usuarios, incluyendo la creación de APIs e integración con sistemas existentes para asegurar un rendimiento eficiente.</li>\n</ul>\n<h3 class=\"text-sm font-normal mb-2 text-gray-600 leading-6 mb-0 break-words\">Logros</h3>\n<ul>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Promoví los principios SOLID para garantizar la calidad del código y la mantenibilidad del producto final.</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Mejoré la comunicación del equipo mediante la introducción y promoción de herramientas específicas.</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Fomenté un entorno colaborativo mediante la implementación de prácticas de programación en pareja.</li>\n</ul>"
+        "summary": "<h3 class=\"text-sm font-normal mb-2 text-gray-600 leading-6 mb-0 break-words\">Responsabilidades</h3>\n<ul class=\"mb-6\">\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Desarrollar una aplicación web en React para la gestión de clientes y ventas de seguros.</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Desarrollar servicios en NestJS para una aplicación con más de 2000 usuarios, incluyendo la creación de APIs e integración con sistemas existentes para asegurar un rendimiento eficiente.</li>\n</ul>\n<h3 class=\"text-sm font-normal mb-2 text-gray-600 leading-6 mb-0 break-words\">Logros</h3>\n<ul>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Promoví los principios SOLID para garantizar la calidad del código y la mantenibilidad del producto final.</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Mejoré la comunicación del equipo mediante la introducción y promoción de herramientas específicas.</li>\n<li class=\"text-gray-600 text-sm leading-6 mb-2 break-words\">- Fomenté un entorno colaborativo mediante la implementación de prácticas de programación en pareja.</li>\n</ul>"
       },
       {
         "name": "Preuniversitario Pedro de Valdivia (Imagemaker S.A.)",
@@ -99,21 +99,25 @@
     "skills": [
       {
         "name": "HTML",
+        "key": "HTML",
         "level": "Master",
         "keywords": ["Desarrollo Web", "Frontend"]
       },
       {
         "name": "CSS",
+        "key": "CSS",
         "level": "Master",
         "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
       },
       {
         "name": "JavaScript",
+        "key": "JavaScript",
         "level": "Master",
         "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
       },
       {
         "name": "Tailwind",
+        "key": "Tailwind",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web",
@@ -124,6 +128,7 @@
       },
       {
         "name": "TypeScript",
+        "key": "TypeScript",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web",
@@ -134,16 +139,30 @@
       },
       {
         "name": "Node",
+        "key": "Node",
         "level": "Avanzado",
         "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
       },
       {
         "name": "Nest",
+        "key": "Nest",
         "level": "Avanzado",
         "keywords": ["Desarrollo Web", "Backend", "JavaScript Framework"]
       },
       {
         "name": "MySQL",
+        "key": "MySQL",
+        "level": "Avanzado",
+        "keywords": [
+          "Bases de Datos",
+          "SQL",
+          "Almacenamiento de Datos",
+          "Backend"
+        ]
+      },
+      {
+        "name": "SQL Server",
+        "key": "SQLServer",
         "level": "Avanzado",
         "keywords": [
           "Bases de Datos",
@@ -154,11 +173,13 @@
       },
       {
         "name": "Git",
+        "key": "Git",
         "level": "Avanzado",
         "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
       },
       {
         "name": "GitHub",
+        "key": "GitHub",
         "level": "Avanzado",
         "keywords": [
           "Control de Versiones",
@@ -169,6 +190,7 @@
       },
       {
         "name": "Next.js",
+        "key": "Next",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web",
@@ -180,8 +202,39 @@
       },
       {
         "name": "React",
+        "key": "React",
         "level": "Avanzado",
         "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+      },
+      {
+        "name": "Microsoft Azure",
+        "key": "Azure",
+        "level": "Advanced",
+        "keywords": ["Web Development", "DevOps", "Cloud Computing"]
+      },
+      {
+        "name": "Azure DevOps",
+        "key": "Azdo",
+        "level": "Advanced",
+        "keywords": ["Web Development", "DevOps", "Cloud Computing"]
+      },
+      {
+        "name": "Atomic Design",
+        "key": "AtomicDesign",
+        "level": "Advanced",
+        "keywords": ["Web Development", "Design Pattern"]
+      },
+      {
+        "name": "Comunicación Proactiva",
+        "key": "Communication",
+        "level": "Advanced",
+        "keywords": ["Soft Skills", "Communication"]
+      },
+      {
+        "name": "Liderazgo",
+        "key": "Leadership",
+        "level": "Advanced",
+        "keywords": ["Soft Skills", "Leadership"]
       }
     ],
     "languages": [
@@ -194,16 +247,7 @@
         "fluency": "Advanced"
       }
     ],
-    "projects": [
-      {
-        "name": "Snaplite",
-        "isActive": true,
-        "description": "Aplicación para la venta de productos en línea de manera rápida y sencilla.",
-        "highlights": ["Vende tus productos en segundos", "En desarrollo"],
-        "url": "https://snaplite.app",
-        "github": ""
-      }
-    ]
+    "projects": []
   },
   "en": {
     "basics": {
@@ -213,7 +257,7 @@
       "email": "me@luisr.dev",
       "phone": "",
       "url": "https://luisr.dev",
-      "summary": "+7 years of experience as a web developer. Currently working as a Senior Front-end Engineer and leading teams. Some of my achievements include the successful implementation of a Design System using Tailwind CSS, the creation of a component library in React / Vite, and a pre-configured base template with Next.js, Tailwind, React Query, and Next Auth. As a Tech Lead, I enjoy contributing to frontend architecture, improving processes and standards to deliver software quickly and efficiently, while positively impacting the team's development experience (DX).",
+      "summary": "+7 years of experience as a web developer. Currently working as a Tech Lead leading teams. Some of my achievements include the successful implementation of a Design System using Tailwind CSS, the creation of a component library in React / Vite, and a pre-configured base template with Next.js, Tailwind, React Query, and Next Auth. As a Tech Lead, I enjoy contributing to frontend architecture, improving processes and standards to deliver software quickly and efficiently, while positively impacting the team's development experience (DX).",
       "location": {
         "address": "",
         "postalCode": "08820",
@@ -305,21 +349,25 @@
     "skills": [
       {
         "name": "HTML",
+        "key": "HTML",
         "level": "Master",
         "keywords": ["Web Development", "Frontend"]
       },
       {
         "name": "CSS",
+        "key": "CSS",
         "level": "Master",
         "keywords": ["Web Development", "Frontend", "Responsive Design"]
       },
       {
         "name": "JavaScript",
+        "key": "JavaScript",
         "level": "Master",
         "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
       },
       {
         "name": "Tailwind",
+        "key": "Tailwind",
         "level": "Advanced",
         "keywords": [
           "Web Development",
@@ -330,6 +378,7 @@
       },
       {
         "name": "TypeScript",
+        "key": "TypeScript",
         "level": "Advanced",
         "keywords": [
           "Web Development",
@@ -340,11 +389,13 @@
       },
       {
         "name": "Node",
+        "key": "Node",
         "level": "Advanced",
         "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
       },
       {
         "name": "Nest",
+        "key": "Nest",
         "level": "Avanzado",
         "keywords": [
           "Web Development",
@@ -355,21 +406,25 @@
       },
       {
         "name": "MySQL",
+        "key": "MySQL",
         "level": "Advanced",
         "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
       },
       {
         "name": "Git",
+        "key": "Git",
         "level": "Advanced",
         "keywords": ["Version Control", "Collaboration", "Source Code"]
       },
       {
         "name": "GitHub",
+        "key": "GitHub",
         "level": "Advanced",
         "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
       },
       {
         "name": "Next.js",
+        "key": "Next",
         "level": "Advanced",
         "keywords": [
           "Web Development",
@@ -381,8 +436,45 @@
       },
       {
         "name": "React",
+        "key": "React",
         "level": "Advanced",
         "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+      },
+      {
+        "name": "Microsoft Azure",
+        "key": "Azure",
+        "level": "Advanced",
+        "keywords": ["Web Development", "DevOps", "Cloud Computing"]
+      },
+      {
+        "name": "Azure DevOps",
+        "key": "Azdo",
+        "level": "Advanced",
+        "keywords": ["Web Development", "DevOps", "Cloud Computing"]
+      },
+      {
+        "name": "Azure DevOps",
+        "key": "Azdo",
+        "level": "Advanced",
+        "keywords": ["Web Development", "DevOps", "Cloud Computing"]
+      },
+      {
+        "name": "Atomic Design",
+        "key": "AtomicDesign",
+        "level": "Advanced",
+        "keywords": ["Web Development", "Design Pattern"]
+      },
+      {
+        "name": "Proactive Communication",
+        "key": "Communication",
+        "level": "Advanced",
+        "keywords": ["Soft Skills", "Communication"]
+      },
+      {
+        "name": "Leadership",
+        "key": "Leadership",
+        "level": "Advanced",
+        "keywords": ["Soft Skills", "Leadership"]
       }
     ],
     "languages": [
@@ -395,15 +487,6 @@
         "fluency": "Advanced"
       }
     ],
-    "projects": [
-      {
-        "name": "Snaplite",
-        "isActive": true,
-        "description": "Application for selling products online quickly and easily.",
-        "highlights": ["Sell your products in seconds", "In development"],
-        "url": "https://snaplite.app",
-        "github": ""
-      }
-    ]
+    "projects": []
   }
 }
