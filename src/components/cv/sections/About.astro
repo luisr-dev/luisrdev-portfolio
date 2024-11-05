@@ -8,7 +8,7 @@ const { locale = "es" } = Astro.params;
 const { summary } = data[locale as keyof typeof data].basics;
 ---
 
-<Section title="Sobre mí">
+<Section title={locale === "es" ? "Sobre mi" : "About me"}>
   <p class="text-justify">
     {summary}
   </p>

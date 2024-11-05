@@ -5,16 +5,23 @@ import data from "@cv";
 
 const { locale = "es" } = Astro.params;
 
-const { work } = data[locale as keyof typeof data];
+const {
+  work,
+  basics: { sectionTitles },
+} = data[locale as keyof typeof data];
 ---
 
-<Section title="Experiencia laboral">
+<Section title={sectionTitles.experience}>
   <ul class="flex gap-8 flex-col">
     {
       work.map(({ name, startDate, endDate, position, summary, url }) => {
         const startYear = new Date(startDate).getFullYear();
         const endYear =
-          endDate != null ? new Date(endDate).getFullYear() : "Actual";
+          endDate != null
+            ? new Date(endDate).getFullYear()
+            : locale === "es"
+              ? "Actual"
+              : "Present";
         const years = `${startYear} - ${endYear}`;
 
         return (

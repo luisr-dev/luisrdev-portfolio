@@ -5,10 +5,13 @@ import data from "@cv";
 
 const { locale = "es" } = Astro.params;
 
-const { projects } = data[locale as keyof typeof data];
+const {
+  projects,
+  basics: { sectionTitles },
+} = data[locale as keyof typeof data];
 ---
 
-<Section title="Proyectos">
+<Section title={sectionTitles.projects}>
   <ul
     class="grid grid-cols-1 sm:grid-cols-auto-fit sm:grid-cols-minmax-200px gap-4 md:me-[-16px] md:ms-[-16px]"
   >

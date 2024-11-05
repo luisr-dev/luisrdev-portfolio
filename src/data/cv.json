@@ -15,6 +15,14 @@
         "countryCode": "ES",
         "region": "Chile"
       },
+      "sectionTitles": {
+        "about": "Sobre mi",
+        "experience": "Experiencia Laboral",
+        "education": "Educación",
+        "skills": "Habilidades",
+        "languages": "Idiomas",
+        "projects": "Proyectos"
+      },
       "profiles": [
         {
           "network": "LinkedIn",
@@ -265,6 +273,14 @@
         "countryCode": "ES",
         "region": "Chile"
       },
+      "sectionTitles": {
+        "about": "About me",
+        "experience": "Work Experience",
+        "education": "Education",
+        "skills": "Skills",
+        "languages": "Languages",
+        "projects": "Projects"
+      },
       "profiles": [
         {
           "network": "LinkedIn",
@@ -339,9 +355,9 @@
     ],
     "education": [
       {
-        "institution": "Rufino Blanco Fombona Technological University Institute",
+        "institution": "Instituto Universitario Tecnológico Rufino Blanco Fombona",
         "url": "",
-        "area": "Higher Technician in Computer Science",
+        "area": "Associate Degree in Computer Science (<em>Técnico superior en Informática</em>)",
         "startDate": "2015-01-01",
         "endDate": "2017-01-01"
       }

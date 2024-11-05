@@ -22,7 +22,10 @@ import data from "@cv";
 
 const { locale = "es" } = Astro.params;
 
-const { skills } = data[locale as keyof typeof data];
+const {
+  skills,
+  basics: { sectionTitles },
+} = data[locale as keyof typeof data];
 
 const SKILLS_ICONS: Record<string, any> = {
   HTML,
@@ -46,7 +49,7 @@ const SKILLS_ICONS: Record<string, any> = {
 };
 ---
 
-<Section title="Habilidades">
+<Section title={sectionTitles.skills}>
   <ul class="inline-flex gap-2 flex-wrap">
     {
       skills.map(({ name, key }) => {

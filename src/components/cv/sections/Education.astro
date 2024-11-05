@@ -5,10 +5,13 @@ import data from "@cv";
 
 const { locale = "es" } = Astro.params;
 
-const { education } = data[locale as keyof typeof data];
+const {
+  education,
+  basics: { sectionTitles },
+} = data[locale as keyof typeof data];
 ---
 
-<Section title="Educación">
+<Section title={sectionTitles.education}>
   <ul class="flex flex-col gap-8">
     {
       education.map(({ institution, startDate, endDate, area }) => {
@@ -31,7 +34,7 @@ const { education } = data[locale as keyof typeof data];
               </header>
 
               <footer>
-                <p>{area}</p>
+                <p set:html={area} />
               </footer>
             </article>
           </li>
