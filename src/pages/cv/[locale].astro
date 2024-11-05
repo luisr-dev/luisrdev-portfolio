@@ -21,9 +21,14 @@ export function getStaticPaths() {
 const { locale = "es" } = Astro.params;
 
 const { name, label } = data[locale as keyof typeof data].basics;
+
+const pageTitle =
+  locale === "es"
+    ? `Portafolio de ${name} - ${label}`
+    : `${name}'s Portfolio - ${label}`;
 ---
 
-<CvLayout title={`Portafolio de ${name} - ${label}`}>
+<CvLayout title={pageTitle}>
   <main class="lg:p-16 m-auto w-full p-8">
     <Hero />
     <About />
